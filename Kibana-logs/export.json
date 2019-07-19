@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "AWk4A_ioiPYz2L2T0A8T",
+    "_type": "dashboard",
+    "_source": {
+      "title": "License Usage",
+      "hits": 0,
+      "description": "License Usage",
+      "panelsJSON": "[{\"size_x\":6,\"size_y\":3,\"panelIndex\":2,\"type\":\"visualization\",\"id\":\"AWk3lOo-iPYz2L2Tz_NE\",\"col\":1,\"row\":1}]",
+      "optionsJSON": "{\"darkTheme\":false}",
+      "uiStateJSON": "{}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "now",
+      "timeFrom": "now-15m",
+      "refreshInterval": {
+        "display": "Off",
+        "pause": false,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[{\"query\":{\"match_all\":{}}}],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]

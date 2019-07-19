@@ -1,0 +1,29 @@
+{
+    "mappings": {
+        "licenseuse": {
+            "properties": {
+                "product": {
+                    "type": "keyword"
+                },
+                "year": {
+                    "type": "long"
+                },
+                "day": {
+                    "type": "long"
+                },
+                "hour": {
+                    "type": "long"
+                },
+                "minute": {
+                    "type": "long"
+                },
+                "count": {
+                    "type": "long"
+                },
+                "id": {
+                	"type" : "keyword"
+                }
+            }
+        }
+    }
+}
